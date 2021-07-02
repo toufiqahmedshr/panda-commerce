@@ -13,9 +13,6 @@
 .buy-now-btn {
   background-image: linear-gradient(45deg, #ff589b 0%, #ff136f 100%);
   color: #fff;
-  border: none;
-  border-radius: 5px;
-  padding: 9px 25px;
 }
 .search-btn {
   background-image: linear-gradient(45deg, #ff589b 0%, #ff136f 100%);
